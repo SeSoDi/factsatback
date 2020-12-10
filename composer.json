@@ -1,0 +1,22 @@
+{
+	"name"	: "euroglas/euro-api",
+	"type"	: "project",
+	"description"	: "Servidor REST administrador de facturas de SeSoDi",
+	"keywords"	: ["server","rest","SeSoDi"],
+	"homepage":	"http://sesodi.com",
+	"license":	"MIT",
+	"authors": [
+		{
+			"name": "Octavio Galindo",
+			"email": "octavio@sesodi.com",
+			"role": "Developer"
+		}
+	],
+	"minimum-stability" : "dev",
+	"require": {
+		"euroglas/eurorest": "@dev"
+	},
+	"repositories" :[
+
+	]
+}
