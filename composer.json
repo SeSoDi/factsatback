@@ -16,14 +16,5 @@
 	"require": {
 		"euroglas/eurorest": "@dev",
 		"euroglas/authemail": "@dev"
-	},
-	"repositories" :[
-		{
-			"type":"path",
-			"url":"../authemail",
-			"options": {
-				"symlink": true
-			}
-		}
-	]
+	}
 }
